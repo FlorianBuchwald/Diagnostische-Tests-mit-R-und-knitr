@@ -1,0 +1,7 @@
+Itemlabel;Stimulus;Option1;Option2;Option3;Option4;scoring
+I07;Welches Skalenniveau setzt das arithmetische Mittel voraus?;Nominal.;Ordinal.;Intervall.;Rational.;3
+I08;Welche Summe minimiert der Median?;Die Summe der absoluten Abweichungen.;Die Summe der quadrierten Abweichungen.;Die Summe der kubischen Abweichungen.;Der Median minimiert gar keine Abweichungssumme.;1
+I03;Welche Werte kann die Kovarianz annehmen?;Beliebige Werte.;Nicht-negative Werte.;Werte zwischen 0 und 1.;Werte zwischen -1 und +1.;1
+I04;Was ist das Thema der deskriptiven Statistik?;Das Testen von Hypothesen.;Der Schluss von der Stichprobe auf die Population.;Der Schluss von der Population auf die Stichprobe.;Die Reduktion von Messwerten auf wenige Kennzahlen.;4
+I05;Mit welchem anderen Kennwert stimmt der standardisierte Regressionskoeffizient bei der Regression von Y auf X überein?;Mit der Korrelation von X und Y.;Mit der Kovarianz von X und Y.;Mit der Varianz von Y.;Mit keinem anderen Kennwert.;1
+I06;Wie nennt man ein (allgemeines) lineares Modell, bei dem ausschließlich kontinuierliche Prädiktoren auftreten?;Kovarianzanalyse.;Regressionsanalyse.;Varianzanalyse.;T-Test.;2
